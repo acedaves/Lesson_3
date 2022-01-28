@@ -1,0 +1,62 @@
+@import "null.css";
+
+p span {
+	color: deeppink;
+}
+
+mark {
+	color: chocolate;
+}
+
+.web {
+	color: slateblue;
+}
+
+#history {
+	color: peru;
+}
+
+.first-site {
+	color: firebrick;
+}
+
+p.history {
+	color: fuchsia;
+}
+
+.devices.pages {
+	color: forestgreen;
+}
+
+p.first-site .www {
+	color: darkturquoise;
+}
+
+div {
+	color: goldenrod;
+}
+
+.design1,
+.design2 {
+	color: blue;
+}
+
+[class*="__about"] {
+	color: lightseagreen;
+}
+
+.paragraph > p {
+	color: magenta;
+}
+
+.programming__text + p {
+	color: slategrey;
+}
+
+.copyright__text ~ p {
+	color: red;
+}
+
+.security .security__site {
+	color: tomato;
+}
